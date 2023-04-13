@@ -1,0 +1,2 @@
+aws_access_key_id = AKIAWM2TWG7VZEIOWR7O
+aws_secret_access_key = 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
