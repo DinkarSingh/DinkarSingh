@@ -1,5 +1,5 @@
 Hi there, I'm Dinkar Singh Karanvanshi 👋
-I am a Software Engineer in Test with over 8 years of experience specializing in comprehensive automation frameworks and functional UI testing. Currently based in Paris, France, I focus on ensuring the highest quality standards for security-critical software.
+I am a Software Engineer in Test with over 8 years of experience specializing in comprehensive functional and non-functional testing. Currently based in Paris, France, I focus on ensuring the highest quality standards for security-critical software.
 
 ## 🚀 Professional Profile
 
